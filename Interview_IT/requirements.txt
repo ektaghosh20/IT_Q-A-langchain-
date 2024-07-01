@@ -1,0 +1,12 @@
+langchain
+langchain_community
+faiss-cpu
+transformers
+torch
+pandas
+python-dotenv
+langsmith
+tf-keras
+InstructorEmbedding
+
+
